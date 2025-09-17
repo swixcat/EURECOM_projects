@@ -1,2 +1,2 @@
 # EURECOM_projects
-Here are some reports of group projects that I did in EURECOM
+Here are some group projects that I did in EURECOM
