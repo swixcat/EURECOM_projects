@@ -1,0 +1,5 @@
+ls
+get serversmall truc
+put truc
+ls
+rm truc
